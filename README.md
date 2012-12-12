@@ -2,7 +2,7 @@ GeoJSON viewer
 ==============
 
 This tool allows you to visualize a simple GeoJSON on top of Google Maps. 
-Currently is able to parse simple polygons such as
+Currently it is able to parse simple polygons such as
 the ones that Apple Maps accepts.
 
 ## Demo
